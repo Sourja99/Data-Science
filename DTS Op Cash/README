@@ -1,0 +1,54 @@
+1) Readr package is required for Importing the dataset as csv
+2)What is the Treasury General account?
+The Treasury General Account is the checking account used by the Department of the U.S. Treasury, from which the U.S. government makes all of its payments. The Federal Reserve Bank of New York is the holder of the Treasury General Account.
+3)In accounting, the closing balance refers to the amount of funds available to a business at the end of a designated accounting period, and it is determined by calculating the difference between credits and debits as they appear in the general ledger.
+
+An accounting period can be a day, a week, a month, a quarter, a year; it really just comes down to how your organisation tracks its finances.
+
+4)What's a fiscal quarter? A fiscal quarter is a consecutive, three-month period within a business's fiscal year (or one-fourth of a year). Publicly-traded companies use fiscal quarters to release reports at the end of each quarter (called 10-Q reports) with financial statements that outline information for the period.
+
+5)The first quarter is Q1, the second quarter is Q2, the third quarter is Q3, the third quarter is Q4. What are the dates of Fiscal Quarters in the United States? Q1 is January, February, and March, Q2 is April, May, and June, Q3 is July, August, and September, and Q4 is October, November, and December.
+
+6)First quarter, Q1: 1 January – 31 March (90 days or 91 days in leap years) Second quarter, Q2: 1 April – 30 June (91 days) Third quarter, Q3: 1 July – 30 September (92 days) Fourth quarter, Q4: 1 October – 31 December (92 days)
+
+6.5) Correlation : http://www.sthda.com/english/wiki/correlation-test-between-two-variables-in-r#:~:text=Pearson%20correlation%20(r)%2C%20which,named%20the%20linear%20regression%20curve.
+
+6.6) Compute correlation in R
+R functions
+Correlation coefficient can be computed using the functions cor() or cor.test():
+
+
+cor() computes the correlation coefficient
+cor.test() test for association/correlation between paired samples. It returns both the correlation coefficient and the significance level(or p-value) of the correlation .
+
+
+The simplified formats are:
+
+cor(x, y, method = c("pearson", "kendall", "spearman"))
+cor.test(x, y, method=c("pearson", "kendall", "spearman"))
+
+pca = https://stackoverflow.com/questions/29783790/how-to-reverse-pca-in-prcomp-to-get-original-data
+
+6.9) HYPOTHESIS TESTING 
+
+
+7)PCA ::  http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/
+
+
+8) PCA  :: https://rpubs.com/JanpuHou/278584
+9) PCA :: https://www.datacamp.com/tutorial/pca-analysis-r
+
+10) PCA : https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com
+
+11) PCA : https://www.r-bloggers.com/2021/05/principal-component-analysis-pca-in-r/
+
+12) pca : https://stats.stackexchange.com/questions/57467/how-to-perform-dimensionality-reduction-with-pca-in-r
+
+13) PCA : https://rpubs.com/JanpuHou/278584
+
+16) Outliers in time series : https://towardsdatascience.com/forecasting-how-to-detect-outliers-cb65faafcd97
+
+
+
+
+
