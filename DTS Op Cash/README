@@ -1,3 +1,10 @@
+"test3.R" is the final file which is to be run for seeing the analysis on DTS OpCash . 
+
+  ##  Correlation , PCA , Data Visualization (Plotly , ggplot ) (heatmap , time series plots) and using ARIMA model to forecasting (part is little lacking) 
+  Related information and links are below :
+
+
+
 1) Readr package is required for Importing the dataset as csv
 2)What is the Treasury General account?
 The Treasury General Account is the checking account used by the Department of the U.S. Treasury, from which the U.S. government makes all of its payments. The Federal Reserve Bank of New York is the holder of the Treasury General Account.
