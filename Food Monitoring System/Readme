@@ -1,0 +1,6 @@
+### For the electronics part of the Project = "Food Monitoring System" go to the Electronics repo
+
+  1) Used Google sheet to append all the values from the sensor via NODEMcu
+  2) Used K-Means and K-NN algorithm on Gas Data , from the google sheet
+  3) Made a pickle file to store the trained model 
+  4) Created Streamlit Website , where in the section of GAS data analysis the value can be given to see the class of data 
